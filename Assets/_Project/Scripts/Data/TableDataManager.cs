@@ -24,6 +24,8 @@ namespace Team963
         private readonly Dictionary<Type, ITable> _tablesByType = new Dictionary<Type, ITable>();
         private bool _isLoaded;
 
+        public bool IsLoaded => _isLoaded;
+
 
         public void OnLoadTableData()
         {

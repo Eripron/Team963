@@ -688,6 +688,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5cab7d16a287074989b0d302a1002db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UITitle
+  _textLoading: {fileID: 454335453}
 --- !u!1 &1496863308
 GameObject:
   m_ObjectHideFlags: 0
@@ -911,6 +912,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Team963.TitleScene
   _tableDataManager: {fileID: 234762104}
+  _uiTitle: {fileID: 1113257532}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
